@@ -5,6 +5,7 @@ npm install -g create-react-app
 ```
 create-react-app my-app
 cd shopping-list-with-react/
+npm install --save bootstrap
 npm start
 ```
 
