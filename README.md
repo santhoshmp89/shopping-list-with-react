@@ -1,4 +1,4 @@
-Shopping List with React
+## Shopping List with React
 
 npm install -g create-react-app
 
