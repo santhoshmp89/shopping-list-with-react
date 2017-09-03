@@ -2,9 +2,11 @@
 
 npm install -g create-react-app
 
+```
 create-react-app my-app
 cd shopping-list-with-react/
 npm start
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
