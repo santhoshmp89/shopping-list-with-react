@@ -3,7 +3,7 @@
 npm install -g create-react-app
 
 ```
-create-react-app my-app
+create-react-app shopping-list-with-react
 cd shopping-list-with-react/
 npm start
 ```
